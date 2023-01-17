@@ -9,7 +9,7 @@ Technologies:
 
 In this chat you can chat anonymously by changing your name.
 
-The frontend to this project is in another repository.
+The frontend to this project is in another repository named "Chat-with-WebSockets_frontend".
 
 
 
